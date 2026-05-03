@@ -1413,6 +1413,12 @@
       "Duration": "0:03:05",
       "Size": 143560704,
       "DisplaySize": "136.9 MB",
+      "Item": {
+        "Title": "A Closer Look: A Very Supernatural Christmas",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "3"
+      },
       "Tracks": [
         {
           "Index": 0,
@@ -1633,6 +1639,12 @@
       "Duration": "0:04:04",
       "Size": 188921856,
       "DisplaySize": "180.1 MB",
+      "Item": {
+        "Title": "A Closer Look: Dream a Little Dream",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "3"
+      },
       "Tracks": [
         {
           "Index": 0,
@@ -1773,6 +1785,12 @@
       "Duration": "0:03:22",
       "Size": 155787264,
       "DisplaySize": "148.5 MB",
+      "Item": {
+        "Title": "A Closer Look: Jus In Bello",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "3"
+      },
       "Tracks": [
         {
           "Index": 0,
@@ -1913,6 +1931,12 @@
       "Duration": "0:16:03",
       "Size": 737089536,
       "DisplaySize": "702.9 MB",
+      "Item": {
+        "Title": "Ghostfacers: The Pilot",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "3"
+      },
       "Tracks": [
         {
           "Index": 0,

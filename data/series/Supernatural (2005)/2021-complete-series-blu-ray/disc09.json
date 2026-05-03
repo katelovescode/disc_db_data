@@ -1560,6 +1560,12 @@
       "Duration": "0:02:19",
       "Size": 107882496,
       "DisplaySize": "102.8 MB",
+      "Item": {
+        "Title": "A Closer Look: The Magnificent Seven",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "3"
+      },
       "Tracks": [
         {
           "Index": 0,
@@ -1838,6 +1844,12 @@
       "Duration": "0:03:06",
       "Size": 144150528,
       "DisplaySize": "137.4 MB",
+      "Item": {
+        "Title": "A Closer Look: The Kids Are Alright",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "3"
+      },
       "Tracks": [
         {
           "Index": 0,
@@ -1978,6 +1990,12 @@
       "Duration": "0:02:42",
       "Size": 124692480,
       "DisplaySize": "118.9 MB",
+      "Item": {
+        "Title": "A Closer Look: Bad Day at Black Rock",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "3"
+      },
       "Tracks": [
         {
           "Index": 0,
@@ -2118,6 +2136,12 @@
       "Duration": "0:03:37",
       "Size": 168173568,
       "DisplaySize": "160.3 MB",
+      "Item": {
+        "Title": "A Closer Look: Red Sky at Morning",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "3"
+      },
       "Tracks": [
         {
           "Index": 0,
