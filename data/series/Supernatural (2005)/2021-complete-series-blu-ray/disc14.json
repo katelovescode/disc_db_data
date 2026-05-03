@@ -707,6 +707,12 @@
       "Duration": "0:02:24",
       "Size": 216999936,
       "DisplaySize": "206.9 MB",
+      "Item": {
+        "Title": "Deleted Scenes 3",
+        "Type": "DeletedScene",
+        "Chapters": [],
+        "Season": "4"
+      },
       "Tracks": [
         {
           "Index": 0,
