@@ -185,31 +185,31 @@
           },
           {
             "Index": 38,
-            "Title": "Credits"
-          },
-          {
-            "Index": 39,
             "Title": "S01E12Faith"
           },
           {
-            "Index": 40,
+            "Index": 39,
             "Title": "Chapter 2"
           },
           {
-            "Index": 41,
+            "Index": 40,
             "Title": "Chapter 3"
           },
           {
-            "Index": 42,
+            "Index": 41,
             "Title": "Chapter 4"
           },
           {
-            "Index": 43,
+            "Index": 42,
             "Title": "Chapter 5"
           },
           {
-            "Index": 44,
+            "Index": 43,
             "Title": "Chapter 6"
+          },
+          {
+            "Index": 44,
+            "Title": "Chapter 7"
           },
           {
             "Index": 45,
@@ -755,6 +755,12 @@
       "Duration": "0:13:38",
       "Size": 550828032,
       "DisplaySize": "525.3 MB",
+      "Item": {
+        "Title": "Deleted Scenes: E07 - E12",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "1"
+      },
       "Tracks": [
         {
           "Index": 0,

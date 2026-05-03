@@ -369,6 +369,12 @@
       "Duration": "0:05:17",
       "Size": 215506944,
       "DisplaySize": "205.5 MB",
+      "Item": {
+        "Title": "Deleted Scenes: E01 - E06",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "1"
+      },
       "Tracks": [
         {
           "Index": 0,
@@ -721,6 +727,12 @@
       "Duration": "0:46:25",
       "Size": 7516182528,
       "DisplaySize": "6.9 GB",
+      "Item": {
+        "Title": "Commentary: S01E01 - Pilot",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "1"
+      },
       "Tracks": [
         {
           "Index": 0,
@@ -905,6 +917,12 @@
       "Duration": "0:42:10",
       "Size": 6838775808,
       "DisplaySize": "6.3 GB",
+      "Item": {
+        "Title": "Commentary: S01E04 - Phantom Traveler",
+        "Type": "Extra",
+        "Chapters": [],
+        "Season": "1"
+      },
       "Tracks": [
         {
           "Index": 0,
